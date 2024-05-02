@@ -24,6 +24,15 @@
 - ### Windows ショートカット
 
 - ### エクスプローラ
+  - ### 開発向け設定
+  - アドレスバー
+    - %TEMP%
+    - sendto
+    - pc
+    - cmd
+  - 送る ( sendto )
+ 
+- ### ショートカット
 
 - ### Windows 標準アプリ
   - 管理系
@@ -38,3 +47,5 @@
     - Snipping Tool
     - 電卓
     - スクリーンキーボード
+
+- ### Google Chrome
