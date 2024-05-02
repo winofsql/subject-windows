@@ -86,7 +86,7 @@
   - ネットワークドライブの割り当て
   - システムフォルダ
     - C:\Users\%USERNAME%
-    - %APPDATA%
+    - %APPDATA% ( または、shell:appdata )
 
 - ### Windows 標準アプリ
   - 管理系
