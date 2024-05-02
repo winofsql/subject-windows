@@ -70,11 +70,36 @@
   - デベロッパーツール
 
 - ### フリーソフト
+  - zoom
   - 7-Zip
   - git
+  - FileZilla Client
+  - WinMerge
+  - さくらエディタ
+  - Honeyview
+  - Advanced IP Scanner
+  - GIMPPortable
 
 - ### XAMPP
   - php
     - phpMyAdmin
   - MySQL
   - Apache
+
+- ### Excel
+  - 設定
+  - ツールバーのカスタマイズ
+  - ショートカット
+
+- ### Access
+  - UI によるテーブル結合
+    - その SQL の取得
+   
+- ### Visual Studio Code
+  - ### 拡張
+    - MySQL ( データベース汎用ツール )
+      - Database manager for MySQL/MariaDB, PostgreSQL, SQLite 等
+      - ツリー
+      - データ参照・編集・更新
+      - 拡張子 SQL のファイルから SQL をここで実行可能
+    - 
