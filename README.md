@@ -1,6 +1,6 @@
 # subject-windows
 
-- ### コンピュータの管理
+- ### コンピュータの管理\
   ![image](https://github.com/winofsql/subject-windows/assets/1501327/61a3d33e-290f-4dd8-a80b-2ea1cab348f9)
 
   - プログラムと機能
