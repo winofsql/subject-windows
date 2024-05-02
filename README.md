@@ -102,4 +102,6 @@
       - ツリー
       - データ参照・編集・更新
       - 拡張子 SQL のファイルから SQL をここで実行可能
-    - 
+    - Hex Editor
+    - Excel Viewer
+    - edit CSV
