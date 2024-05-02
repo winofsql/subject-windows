@@ -85,7 +85,7 @@
   - 送る ( sendto )
   - ネットワークドライブの割り当て
   - システムフォルダ
-    - C:\Users\lightbox
+    - C:\Users\%USERNAME%
 
 - ### Windows 標準アプリ
   - 管理系
