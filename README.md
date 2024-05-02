@@ -8,10 +8,16 @@
     - Windows の機能
   
       ![image](https://github.com/winofsql/subject-windows/assets/1501327/e10b1015-8d7e-4af8-b16a-ee746920e5d9)
- 
+
+   - ODBC アドミニストレータ
+     - 64 ビットと 32ビット
 
 - ### タスクマネージャ
 
+- ### ターミナル
+  - ### コマンドプロンプト
+    - 管理者権限
+  - ### Power Shell
 
 - ### Windows キー
 
